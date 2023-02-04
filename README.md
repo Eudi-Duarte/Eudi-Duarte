@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eudi-Duarte
-- 👀 I’m interested in Data Science, Python, SQL
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analysis, Python, SQL
+- 🌱 I’m currently learning Spark
 - 💞️ I’m looking to collaborate on Data Analitcs/Data Engineering
 - 📫 How to reach me: @eudijuno
 
